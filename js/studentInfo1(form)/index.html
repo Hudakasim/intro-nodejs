@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<script src="sketch.js"></script>
+	</head>
+	<body>
+		<h4> Student Info</h4>
+		<form id="infoForm">
+			<!-- name = " "  -> identify form controls within a form -->
+			<label for="name">Name:</label>
+			<input type="text" id="name" name="name"><br><br>
+			<label for="surname">Surname: </label>
+			<input type="text" id="surname" name="surname"><br><br>
+			<label for="studentID">Student ID: </label>
+			<input type="text" id="studentID" name="studentID"><br><br>
+			<button type="button" onclick="takeInfos()">Take the infos</button>
+		</form>
+		<div id="StudentInfos"></div>
+	</body>
+</html>
