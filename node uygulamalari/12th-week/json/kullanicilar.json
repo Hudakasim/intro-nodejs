@@ -1,0 +1,17 @@
+{
+	"kullanici1": {
+	  "name": "Hakan",
+	  "soyisim": "Gençoğlu",
+	  "id": 1
+	},
+	"kullanici2": {
+	  "name": "Ahmet",
+	  "soyisim": "Kaplan",
+	  "id": 2
+	},
+	"kullanici3": {
+	  "name": "Şengül",
+	  "soyisim": "Bayrak Hayta",
+	  "id": 2
+	}
+  }
