@@ -1,0 +1,22 @@
+<html>
+
+	<head>
+	<title>populate denemesi </title>
+	</head>
+	<body>
+
+		<div>
+			<label>Kisiler: </label>
+			<select id="sec">
+
+			<% for (let i=0; i < dropVals.length; i++) { %>
+					<option> <%= dropVals[i] %></option>
+			<% } %>
+
+			</select>
+		</div>
+	</body>
+</html>
+
+<!-- <% %> ve <%= %> etiketleri kullanarak JS kodunun HTML icinde calismasini saglar -->
+<!-- <%= %> => bir degiskenin degerini yazdirmak -->

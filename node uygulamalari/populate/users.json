@@ -1,0 +1,25 @@
+[
+  {
+    "isim":"Hakan",
+    "Soyisim": "Gencoglu",
+    "bolum":"Yazilim Muhendisligi"
+
+  },
+  {
+    "isim":"Ahmet",
+    "Soyisim": "Kaplan",
+    "bolum":"Bilgisayar Muhendisligi"
+
+  },
+  {
+    "isim":"Sengul",
+    "Soyisim": "Bayrak Hayta",
+    "bolum":"Yazilim Muhendisligi"
+
+  },
+  {
+    "isim":"Abdullah",
+    "Soyisim": "Sonmez",
+    "bolum":"Bilgisayar Muhendisligi"
+  }
+]
